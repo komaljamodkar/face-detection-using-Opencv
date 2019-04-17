@@ -1,2 +1,2 @@
 # face-detection
-face detection using opencv in python
+Real time face detection using opencv library  in python
